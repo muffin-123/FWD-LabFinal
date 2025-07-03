@@ -6,7 +6,7 @@ Built with:
 - 🔥 React (Frontend)
 - 🚀 Express + Node.js (Backend)
 - ☁️ MongoDB Atlas (Database)
-- ⚡ Mongoose (ODM)
+
 
 ---
 
@@ -16,7 +16,7 @@ Built with:
 - View all feedback entries in a styled list
 - Live data from MongoDB Atlas
 - Clean UI with responsive form
-- Full CRUD-ready backend
+
 
 ---
 
